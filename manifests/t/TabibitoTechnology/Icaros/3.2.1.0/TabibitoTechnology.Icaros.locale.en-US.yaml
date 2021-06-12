@@ -6,6 +6,6 @@ PackageLocale: en-US
 Publisher: Tabibito Technology
 PackageName: Icaros
 License: Freeware
-ShortDescription: Icaros provides Windows shell extensions, which is capable of providing Windows Explorer thumbnails for essentially any video media filetype
+ShortDescription: Icaros provides Windows shell extensions capable of providing File Explorer thumbnails for essentially any video media filetype
 ManifestType: defaultLocale
 ManifestVersion: 1.0.0
